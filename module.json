@@ -18,6 +18,6 @@
   "socket": true,
   "url": "https://github.com/YourGitHubUsername/cmd-executor",
   "manifest": "https://raw.githubusercontent.com/Hoise001/cmd-executor/main/module.json",
-  "download": "https://github.com/Hoise001/cmd-executor/main/cmd-executor.zip",
+  "download": "https://github.com/Hoise001/cmd-executor/raw/refs/heads/main/cmd-executor.zip",
   "bugs": "https://github.com/Hoise001/cmd-executor/issues"
 }
