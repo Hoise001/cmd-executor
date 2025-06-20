@@ -1,13 +1,23 @@
 {
   "id": "cmd-executor",
   "title": "CMD Executor",
-  "description": "Run CMD commands from FoundryVTT",
+  "description": "Run CMD commands from FoundryVTT on the host Windows machine",
   "version": "1.0.0",
   "compatibility": {
     "minimum": "12",
     "verified": "12"
   },
-  "authors": [{ "name": "YourName" }],
+  "authors": [
+    {
+      "name": "Hoise001",
+      "url": "https://github.com/Hoise001",
+      "email": "Hoise001@gmail.com"
+    }
+  ],
   "esmodules": ["module.js"],
-  "socket": true
+  "socket": true,
+  "url": "https://github.com/YourGitHubUsername/cmd-executor",
+  "manifest": "https://raw.githubusercontent.com/YourGitHubUsername/cmd-executor/main/module.json",
+  "download": "https://github.com/YourGitHubUsername/cmd-executor/releases/download/v1.0.0/module.zip",
+  "bugs": "https://github.com/YourGitHubUsername/cmd-executor/issues"
 }
