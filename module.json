@@ -1,0 +1,13 @@
+{
+  "id": "cmd-executor",
+  "title": "CMD Executor",
+  "description": "Run CMD commands from FoundryVTT",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "authors": [{ "name": "YourName" }],
+  "esmodules": ["module.js"],
+  "socket": true
+}
