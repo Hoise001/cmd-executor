@@ -17,7 +17,7 @@
   "esmodules": ["module.js"],
   "socket": true,
   "url": "https://github.com/YourGitHubUsername/cmd-executor",
-  "manifest": "https://raw.githubusercontent.com/YourGitHubUsername/cmd-executor/main/module.json",
-  "download": "https://github.com/YourGitHubUsername/cmd-executor/releases/download/v1.0.0/module.zip",
-  "bugs": "https://github.com/YourGitHubUsername/cmd-executor/issues"
+  "manifest": "https://raw.githubusercontent.com/Hoise001/cmd-executor/main/module.json",
+  "download": "https://github.com/Hoise001/cmd-executor/main/cmd-executor.zip",
+  "bugs": "https://github.com/Hoise001/cmd-executor/issues"
 }
